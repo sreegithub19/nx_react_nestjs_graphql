@@ -10,3 +10,6 @@ https://githubyzwzpigskgfp-owch--4200--7259293c.local-credentialless.webcontaine
 
 Command to start:
 npm install && npm run start
+
+
+Works fine in Firefox
